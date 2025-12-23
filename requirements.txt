@@ -1,0 +1,11 @@
+SpeechRecognition
+google-generativeai
+edge-tts
+pygame
+pyaudio
+pyautogui
+pygetwindow
+python-dotenv
+asyncio
+flet
+pyinstaller
